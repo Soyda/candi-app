@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'tutoappcandidature'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E33AB7A27514F48B81BB32AA9FF4918 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D982731F774043CFB4E77B36C51405E3 }}
